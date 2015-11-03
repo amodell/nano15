@@ -1,0 +1,46 @@
+NaNoWriMo 2015 - Andy Modell
+
+Prompt: "A society where blood type and social status are somehow linked"
+
+Backstory: Some food born illness, <illness>, somehow infected the 'upper-class' with a disease that requires consistent blood transfusions.  A pill has recently come out that, if taken daily, will delay the need for such transfusions.
+
+Main character: <main> a young man who has just graduated pharmacy school and will be working at <pharma>.  Both parents are well-off lawyers, <mother> presented a case before the supreme court to make encrypted communications a right (famous), <father> worked for <pharma> as a patent attorney on some medicine that prevented the growth of cancer cells.
+
+Friend: Jake somebody <main> grew up with who will be going to work at a company producing self-driving cars.
+
+Romance: <girl> is the daughter of <pharma>'s CEO.  She recently got her law degree and will be working in the division that <father> now heads.  Starts on the same day as <main>.
+
+Villain: <pharma> is a large profit driven corporation.  Their claim to fame comes as an injection that, if taken annually, will actually stop the growth of cancerous cells completely.  They've already developed a cure for <illness>, but they'd rather establish something more profitable.
+
+Conflict: <main> eventually learns that <pharma> has come up with a cure to <illness>, and wants to make it known.  <pharma> is very unethical and tries to stop him.  Eventually, he ends up getting <girl> involved because <pharma>'s CEO doesn't notice that <main> is the person giving his company trouble.
+
+
+Outline:
+
+1. Introduce characters and world
+     <main> has just graduated school.  We're at graduation with Jake and Jake's family.
+     <mother> works for the EFF-style lobby.  <father> has `retired`, but he still does work with <pharma>
+     Jake is going into tech.
+     <main> is jealous of Jake's dad because worked at Microsoft back in the days of Bill Gates.
+     <father> will comment on how proud he is of <main> for going to work at <pharma>.  Mention a `top secret` project he's been working on which is <daily pill>.
+     Random other stuff about the dinner and the supreme brownie sunday desert.
+
+2. Talk about the <illness>.
+Begin this chapter by mentioning something about the housing that <main> and Jake are in where they can pack.  Note that it's a primarily Blood Type A community.  Then go into mentioning why it matters.
+   People began noticing the death of farm-raised salmon in the US and UK.
+   Ended up effecting, in general, the more wealthy who could afford the fish as opposed to traditional meets
+   virus that doesn't show symptoms for three months
+   Causes an auto-immune problem where people's antibodies begin to target their own blood.
+   Transfusions of unaffected's blood seems to put it off for a short time.
+   Social groups tended to focus around people with their own blood type.
+   The megawealthy actually hired personal doners.
+   Those with the AB and O blood types shared interesting situations.
+
+
+Later:
+- <main> finds out that <pharma> actually had a cure for <illness>
+- <main> ends up hiding first with a gang who matches his blood type, but then <pharma>'s group ends up `getting` him.
+- <girl> ends up hiding <main> at her house.  <ceo> doesn't really know about what <main> looks like, so it's alright.
+- <girl> doens't end up knowing <main>'s blood type, so she has to end up giving him a transfusion of hers
+- turns out <main> is really AB+, so he doesn't die even though girl is B+.
+- <girl> and <main> end up figuring out a way to leak the data from <ceo> and the FBI comes in to investigate.  The data leaked ends up allowing the <mirical pill> to get mass produced and the epedemic is over!
